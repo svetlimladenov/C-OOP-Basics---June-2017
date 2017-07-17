@@ -1,0 +1,12 @@
+01.Defining Classes https://youtu.be/d0Iekb1H_LI
+01.Defining Classes Execises https://youtu.be/uG1WLNFMyJo
+02.Encapsulation https://youtu.be/HWIudWuh6Wc
+02.Encapsulation Exercises https://youtu.be/5uLcbggtheQ
+03.Exercise: Defining Classes and Encapsulation https://youtu.be/O7e6Je75-sU
+04.Inheritance https://youtu.be/yfMLEOk8M6g
+04.Inheritance - Exercises https://youtu.be/Lo29C0bC0jc
+05.Polymorphism https://www.youtube.com/watch?v=dWvzgNJ_IsA&feature=youtu.be
+05.Polymorphism - Exercises https://youtu.be/_RF1UvWZFpo
+06.Exam Preparation 1 https://youtu.be/O-CcLJMA4G4
+07.Exam Preparation 2 https://youtu.be/sbwI0NLOUJc 
+06.Exam Preparation 3
