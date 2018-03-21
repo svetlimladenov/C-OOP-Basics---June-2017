@@ -23,7 +23,7 @@ public class Engine
             var cmdArgs = input.Split(' ').ToList();
             var command = cmdArgs[0];
             cmdArgs.RemoveAt(0);
-            switch (command)
+            switch (command)	
             {
                 case "Bender":
                     builder.AssignBender(cmdArgs);
