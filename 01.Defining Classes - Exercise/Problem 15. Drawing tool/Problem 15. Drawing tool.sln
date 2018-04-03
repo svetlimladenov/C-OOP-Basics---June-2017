@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. Book Shop", "Problem 2. Book Shop\Problem 2. Book Shop.csproj", "{34B74A95-C8B2-4E57-8285-2CBE42ED69A7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 15. Drawing tool", "Problem 15. Drawing tool\Problem 15. Drawing tool.csproj", "{BD69D2B5-0582-4187-9E18-F6296782215A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{34B74A95-C8B2-4E57-8285-2CBE42ED69A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{34B74A95-C8B2-4E57-8285-2CBE42ED69A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{34B74A95-C8B2-4E57-8285-2CBE42ED69A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{34B74A95-C8B2-4E57-8285-2CBE42ED69A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD69D2B5-0582-4187-9E18-F6296782215A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD69D2B5-0582-4187-9E18-F6296782215A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD69D2B5-0582-4187-9E18-F6296782215A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD69D2B5-0582-4187-9E18-F6296782215A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {85945B1D-69FF-4BF0-9682-F2A7A8E3B736}
+		SolutionGuid = {CE2BDD67-F900-48FC-8479-08103BF08DDE}
 	EndGlobalSection
 EndGlobal
